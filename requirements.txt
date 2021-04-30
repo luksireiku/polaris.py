@@ -42,5 +42,5 @@ soupsieve==1.9.5
 Telethon==1.10.8
 toml==0.10.1
 uritemplate==3.0.0
-urllib3==1.25.7
+urllib3==1.25.8
 yarl==1.5.1
